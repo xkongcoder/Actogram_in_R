@@ -1,4 +1,4 @@
-# CircadianRythms
+# Actogram in R
 This is a R code for plotting actogram in R studio.This piece of work is done by me and Andy Lan. Using our code you can plot and analyze any raw time series data.
 You can use the sample data to run the script and see how it works. Note: It is common to use double plot actograms in choronobilogy, therefore in the sample data, you can see the 24 hour data of each day(n) were copied and paste below the day(n+1).
 Our code get inspirations from the following articles:
